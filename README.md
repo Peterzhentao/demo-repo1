@@ -11,4 +11,3 @@ Watch youtuber to learn git
 1. Open index.html in your browser.
 2. Close it.
 3. Test it.
-4. Test pull
